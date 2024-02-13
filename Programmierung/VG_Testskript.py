@@ -150,16 +150,15 @@ def log_data(state, ph_value, temperature, ec_value, tds_value):
                          'EC': ec_value, 'TDS': tds_value})
 
 # Main loop
-try:
-    while True:
-        # Read sensor values
-        ph_value = read_ph_value()
-        temperature = read_temperature()
-        ec_value, tds_value = read_ec_tds_values()
+while True :
+    # Read sensor values
+    ph_value = read_ph_value()
+    temperature = read_temperature()
+    ec_value, tds_value = read_ec_tds_values()
 
-        # Display values on OLED
-        disp.clear()
-        disp.draw.text((0, 0), f'pH: {ph_value:.2f}', font=None, fill=1)
-        disp.draw.text((0, 16), f'Temperature: {temperature:.2f}°C', font=None, fill=1)
-        disp.draw.text((0, 32), f'EC: {ec_value:.2f} μS/cm', font=None, fill=1)
-        disp.draw.text((0, 48), f'TDS
+     # Display values on OLED
+    disp.clear()
+    disp.draw.text((0, 0), f'pH: {ph_value:0.2f}', font=None, fill=1)
+    disp.draw.text((0, 16), f'Temperature: {temperature:.2f}°C', font=None, fill=1)
+    disp.draw.text((0, 32), f'EC: {ec_value:.2f} μS/cm', font=None, fill=1)
+    disp.draw.text(0, 48), f'TDS)

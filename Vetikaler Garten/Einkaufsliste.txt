@@ -1,0 +1,67 @@
+Alle Düngemittel sind (gelößte) Salze
+Es wird nur eins von Beiden benötigt, ich bevorzuge TDS
+
+EC Wert:
+(Electric Conductivity)
+- elektrische Leitfähigkeit in Flüssigkeiten
+- Leitfähigkeit abhängig von gelösten Salzen (Je mehr destso besser)
+
+TDS Wert:
+(Total Dissolved Salts / "salinity")
+- Entspricht Menge gelöster Salze 
+- Mögliche Quelle (6€)https://www.conrad.de/de/p/iduino-tc-9520260-sensor-modul-1-st-passend-fuer-entwicklungskits-arduino-2380065.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVg42V9HHCYQOdk6eWD2p_699-PF_tkGBcAJtTg8_UfmrIPLoWiZrEaAp7hEALw_wcB
+
+
+Quelle Infos: https://www.plantcaretools.com/de/ec-messen-wasser/#:~:text=Eigentlich%20gibt%20der%20EC%2DWert,Alle%20D%C3%BCngestoffe%20sind%20Salze.
+
+Temperatur Sensor:
+-Pflanzen brauchen einen bestimmten Temperaturberreich
+-Frage ob in Lösung oder oberhalb den Pflanzen selber
+-Mögliche Quelle (3-15€)https://www.berrybase.de/sensoren-module/temperatur/
+
+PH Wert Sonde:
+-(~26€) https://www.amazon.de/Baverta-PH-Wert-Sensor-Sondenerkennung-Erfassungs%C3%BCberwachungssteuerung-Inspektionswerkzeug/dp/B097JC3XLF?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A119AWRA5YL9T1
+- Vermutlich der teuerste Sensor von allen
+
+Beleuchtung:
+- Dedizierte Lampen sind meistens ziemlich groß und scheiße teuer
+- Mögliche Quelle, vermutlich etwas falsches Format (~27€ pro Etage): https://www.kaufland.de/product/390204282/?kwd&source=pla&sid=52010786&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVPtkKWYeUaZ8cacNp6o25KnbrpaQiFKD2xM9zB6Tfca_mymdUkaZYaAnUZEALw_wcB
+- Deutlich Günstiger und in ordentlichem Format: https://www.amazon.de/Pflanzenwachstums-Lichtleiste-Grow-Zimmerpflanzen-Vollspektrum-Pflanzenlicht/dp/B0998PWVD3?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3OQ95OJJBLM2F&th=1
+
+Quelle Infos: https://www.trees.com/gardening-and-landscaping/how-light-affects-plant-growth
+
+
+Luftfeuchtigkeit:
+- In einigen Temperatursonden enthalten
+- Sollte möglichst hoch sein
+- (~6€) https://www.reichelt.de/de/de/entwicklerboards-temperatur-feuchtigkeits-und-drucksensor--debo-bme280-p253982.html?PROVID=2788&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RVMGB-_QbRxlYCeBWXuzidH7mJyrhx3d4syYqJgyXUfenemini2LTQaAilEEALw_wcB&&r=1
+
+Luftstein/ Luftpumpe
+- Wurzeln brauchen Luft
+- Auqariumsbedarf
+- (~20€) https://www.garnelen-bremen.de/de/nano-luftstein-dunkel-556-557.html
+
+
+Quelle Infos: https://frankiesgarten.de/wurzelpflege/ 
+
+Isolierung:
+- Holz, Seegras/Algen
+- Ökologische Dämmung wird vermutlich relativ dick
+- Wernber am besten Fragen
+
+Display:
+- (~8€) Kleines Display für Messwerte: https://www.berrybase.de/1.3-128x64-oled-display-modul-einfarbig-blau-spi/i2c-interface-horizontale-stiftleiste?c=2246
+- Große Displays sind vom Vorgänger vorhanden
+
+Breadboard:
+-(3-8€) Sollte ich in jedem Elektronik Laden bekommen 
+- Wird nicht verbraucht, ist nur Übergangsweise benötigt
+
+Werkzeug:
+- Sollte alles auf Arbeit oder anderweitig bereits da sein
+
+
+
+
+
+
