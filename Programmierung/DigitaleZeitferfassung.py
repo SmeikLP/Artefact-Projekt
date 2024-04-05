@@ -28,7 +28,7 @@ Mitarbeiter01 = {
 }
 Mitarbeiter02 = {
     "name": "Greta",
-    "Lastname": "Stanisch",
+    "Lastname": "Ohlsen",
     "weeklyWorktime": 39,
     "currentTime": 0,
     "ArrivedTodayAt": None,
@@ -39,7 +39,7 @@ Mitarbeiter02 = {
 }
 Mitarbeiter03 = {
     "name": "Gabriell",
-    "Lastname": "Stanisch",
+    "Lastname": "IForgor",
     "weeklyWorktime": 39,
     "currentTime": 0,
     "ArrivedTodayAt": None,
@@ -81,7 +81,6 @@ while True:
                 display = 0
 
 
-###https://www.conrad.de/de/p/tru-components-schreib-und-lesemodul-tc-9927144-1-st-2481786.html?hk=SEM&WT.mc_id=google_pla&gad_source=1&gclid=Cj0KCQiAw6yuBhDrARIsACf94RUnn15PIssUqNSlKl-n56Ix79LZuXAUmXzl73zZO-X-ECmsGpG1XiIaAmL8EALw_wcB
             
 
 
